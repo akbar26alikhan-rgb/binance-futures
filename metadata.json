@@ -1,0 +1,6 @@
+{
+  "name": "Axiom Quant - 24/7 Autonomous Trading Agent",
+  "description": "Systematic quantitative trading engine with market regime classification, walk-forward strategy validation, hard risk circuit breakers, and human-in-the-loop phase gates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
